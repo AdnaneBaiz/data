@@ -1,5 +1,7 @@
-[{
-	"impaye": "1234"
-}, {
-	"impaye": "0"
-}]
+{
+	"factures": [{
+		"impaye": "1234"
+	}, {
+		"impaye": "0"
+	}]
+}

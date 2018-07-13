@@ -7,7 +7,7 @@
 	{"id": "1", "billingPeriod": "Mai 2018", "billNumber": "234887", "billType": "Consomation", "settlementDate": "2018-05-12", "amount": "234.35", "SettlementMode": "Mobile"}
 	],
 	"contracts": [
-	{"id": "0", "contractNumber": "9845", "contractType": "eau"}
+	{"id": "0", "contractNumber": "9845", "contractType": "eau"},
 	{"id": "1", "contractNumber": "9845", "contractType": "électricité"}
 	]
 }

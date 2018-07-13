@@ -1,5 +1,9 @@
 {
 	"factures": [
 	{"id": "0", "impaye": "0"}
+	],
+	"settlements": [
+	{"id": "0", "billingPeriod": "Juin 2018", "billNumber": "234887", "billType": "Consomation", "settlementDate": "2018-06-12", "amount": "144.35", "SettlementMode": "Guichet"},	
+	{"id": "1", "billingPeriod": "Mai 2018", "billNumber": "234887", "billType": "Consomation", "settlementDate": "2018-05-12", "amount": "234.35", "SettlementMode": "Mobile"}
 	]
 }

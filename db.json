@@ -11,7 +11,7 @@
 	{"id": "1", "contractNumber": "9877", "contractType": "Electricité"}
 	],
 	"releves": [
-	{"id": "0", "type": "Electricité", "dateReleve": "2018-06-12"},
-	{"id": "1", "type": "Eau", "dateReleve": "2018-06-12"}
+	{"id": "0", "type": "Electricité", "dateReleve": "2018-06-12", "index": "183949", "ref": "46578"},
+	{"id": "1", "type": "Eau", "dateReleve": "2018-06-12", "index": "538644", "ref": "65309"}
 	]
 }

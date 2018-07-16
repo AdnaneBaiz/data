@@ -7,7 +7,11 @@
 	{"id": "1", "billingPeriod": "Mai 2018", "billNumber": "234887", "billType": "Consomation", "settlementDate": "2018-05-12", "amount": "234.35", "SettlementMode": "Mobile", "contractNumber": "9845"}
 	],
 	"contracts": [
-	{"id": "0", "contractNumber": "9845", "contractType": "eau"},
-	{"id": "1", "contractNumber": "9877", "contractType": "électricité"}
+	{"id": "0", "contractNumber": "9845", "contractType": "Eau"},
+	{"id": "1", "contractNumber": "9877", "contractType": "Electricité"}
+	],
+	"releves": [
+	{"id": "0", "type": "Electricité", "dateReleve": "2018-06-12"},
+	{"id": "1", "type": "Eau", "dateReleve": "2018-06-12"}
 	]
 }
